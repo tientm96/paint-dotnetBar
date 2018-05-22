@@ -1,0 +1,153 @@
+d:\documents\visual studio 2013\Projects\Paint\Paint\bin\Debug\Paint.exe.config
+d:\documents\visual studio 2013\Projects\Paint\Paint\bin\Debug\Paint.exe
+d:\documents\visual studio 2013\Projects\Paint\Paint\bin\Debug\Paint.pdb
+d:\documents\visual studio 2013\Projects\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\Paint\Paint\obj\Debug\Paint.Form1.resources
+d:\documents\visual studio 2013\Projects\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+d:\documents\visual studio 2013\Projects\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+d:\documents\visual studio 2013\Projects\Paint\Paint\obj\Debug\Paint.exe
+d:\documents\visual studio 2013\Projects\Paint\Paint\obj\Debug\Paint.pdb
+D:\LT\Code\C#\Paint\Paint\bin\Debug\Paint.exe.config
+D:\LT\Code\C#\Paint\Paint\obj\Debug\Paint.exe
+D:\LT\Code\C#\Paint\Paint\obj\Debug\Paint.pdb
+D:\LT\Code\C#\Paint\Paint\bin\Debug\Paint.exe
+D:\LT\Code\C#\Paint\Paint\bin\Debug\Paint.pdb
+D:\LT\Code\C#\Paint\Paint\obj\Debug\Paint.Form1.resources
+D:\LT\Code\C#\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\LT\Code\C#\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+D:\LT\Code\C#\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+D:\LT\Code\C#\Paint_GUI\Paint\bin\Debug\Paint.exe.config
+D:\LT\Code\C#\Paint_GUI\Paint\obj\Debug\Paint.exe
+D:\LT\Code\C#\Paint_GUI\Paint\obj\Debug\Paint.pdb
+D:\LT\Code\C#\Paint_GUI\Paint\bin\Debug\Paint.exe
+D:\LT\Code\C#\Paint_GUI\Paint\bin\Debug\Paint.pdb
+D:\LT\Code\C#\Paint_GUI\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\LT\Code\C#\Paint_GUI\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+D:\LT\Code\C#\Paint_GUI - Copy\Paint\bin\Debug\Paint.exe.config
+D:\LT\Code\C#\Paint_GUI - Copy\Paint\obj\Debug\Paint.exe
+D:\LT\Code\C#\Paint_GUI - Copy\Paint\obj\Debug\Paint.pdb
+D:\LT\Code\C#\Paint_GUI - Copy\Paint\bin\Debug\Paint.exe
+D:\LT\Code\C#\Paint_GUI - Copy\Paint\bin\Debug\Paint.pdb
+D:\LT\Code\C#\Paint_GUI - Copy\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+D:\LT\Code\C#\Paint_GUI - Copy\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\LT\Code\C#\Paint_GUI - Copy\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+D:\LT\Code\C#\Paint_GUI - Copy\Paint\obj\Debug\Paint.PaintForm.resources
+D:\LT\Code\C#\Paint_GUI\Paint\obj\Debug\Paint.PaintForm.resources
+D:\LT\Code\C#\Paint_GUI\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+D:\LT\Code\C#\14520748-Paint\Paint\bin\Debug\Paint.exe.config
+D:\LT\Code\C#\14520748-Paint\Paint\obj\Debug\Paint.exe
+D:\LT\Code\C#\14520748-Paint\Paint\obj\Debug\Paint.pdb
+D:\LT\Code\C#\14520748-Paint\Paint\bin\Debug\Paint.exe
+D:\LT\Code\C#\14520748-Paint\Paint\bin\Debug\Paint.pdb
+D:\LT\Code\C#\14520748-Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+D:\LT\Code\C#\14520748-Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\LT\Code\C#\14520748-Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+D:\LT\Code\C#\14520748-Paint\Paint\obj\Debug\Paint.PaintForm.resources
+D:\LT\Code\C#\14520748-Paint - Copy\Paint\bin\Debug\Paint.exe.config
+D:\LT\Code\C#\14520748-Paint - Copy\Paint\obj\Debug\Paint.exe
+D:\LT\Code\C#\14520748-Paint - Copy\Paint\obj\Debug\Paint.pdb
+D:\LT\Code\C#\14520748-Paint - Copy\Paint\bin\Debug\Paint.exe
+D:\LT\Code\C#\14520748-Paint - Copy\Paint\bin\Debug\Paint.pdb
+D:\LT\Code\C#\14520748-Paint - Copy\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+D:\LT\Code\C#\14520748-Paint - Copy\Paint\obj\Debug\Paint.PaintForm.resources
+D:\LT\Code\C#\14520748-Paint - Copy\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\LT\Code\C#\14520748-Paint - Copy\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+D:\LT\Code\C#\14520748-Paint -Backup - Copy\Paint\bin\Debug\Paint.exe.config
+D:\LT\Code\C#\14520748-Paint -Backup - Copy\Paint\obj\Debug\Paint.exe
+D:\LT\Code\C#\14520748-Paint -Backup - Copy\Paint\obj\Debug\Paint.pdb
+D:\LT\Code\C#\14520748-Paint -Backup - Copy\Paint\bin\Debug\Paint.exe
+D:\LT\Code\C#\14520748-Paint -Backup - Copy\Paint\bin\Debug\Paint.pdb
+D:\LT\Code\C#\14520748-Paint -Backup - Copy\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+D:\LT\Code\C#\14520748-Paint -Backup - Copy\Paint\obj\Debug\Paint.PaintForm.resources
+D:\LT\Code\C#\14520748-Paint -Backup - Copy\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\LT\Code\C#\14520748-Paint -Backup - Copy\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+D:\LT\Code\C#\14520748-Paint -Backup - Copy\Paint\obj\Debug\Paint.InfoForm.resources
+D:\LT\Code\C#\14520748-Paint -Backup - Copy - Copy\Paint\bin\Debug\Paint.exe.config
+D:\LT\Code\C#\14520748-Paint -Backup - Copy - Copy\Paint\obj\Debug\Paint.exe
+D:\LT\Code\C#\14520748-Paint -Backup - Copy - Copy\Paint\obj\Debug\Paint.pdb
+D:\LT\Code\C#\14520748-Paint -Backup - Copy - Copy\Paint\bin\Debug\Paint.exe
+D:\LT\Code\C#\14520748-Paint -Backup - Copy - Copy\Paint\bin\Debug\Paint.pdb
+D:\LT\Code\C#\14520748-Paint -Backup - Copy - Copy\Paint\obj\Debug\Paint.InfoForm.resources
+D:\LT\Code\C#\14520748-Paint -Backup - Copy - Copy\Paint\obj\Debug\Paint.PaintForm.resources
+D:\LT\Code\C#\14520748-Paint -Backup - Copy - Copy\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\LT\Code\C#\14520748-Paint -Backup - Copy - Copy\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+D:\LT\Code\14520748_Paint\Paint\bin\Debug\Paint.exe.config
+D:\LT\Code\14520748_Paint\Paint\obj\Debug\Paint.exe
+D:\LT\Code\14520748_Paint\Paint\obj\Debug\Paint.pdb
+D:\LT\Code\14520748_Paint\Paint\bin\Debug\Paint.exe
+D:\LT\Code\14520748_Paint\Paint\bin\Debug\Paint.pdb
+D:\LT\Code\14520748_Paint\Paint\obj\Debug\Paint.InfoForm.resources
+D:\LT\Code\14520748_Paint\Paint\obj\Debug\Paint.PaintForm.resources
+D:\LT\Code\14520748_Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\LT\Code\14520748_Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+D:\LT\Code\C#\14520748_Paint\Paint\bin\Debug\Paint.exe.config
+D:\LT\Code\C#\14520748_Paint\Paint\obj\Debug\Paint.exe
+D:\LT\Code\C#\14520748_Paint\Paint\bin\Debug\Paint.exe
+D:\LT\Code\C#\14520748_Paint\Paint\bin\Debug\Paint.pdb
+D:\LT\Code\C#\14520748_Paint\Paint\obj\Debug\Paint.InfoForm.resources
+D:\LT\Code\C#\14520748_Paint\Paint\obj\Debug\Paint.PaintForm.resources
+D:\LT\Code\C#\14520748_Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\LT\Code\C#\14520748_Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+D:\LT\Code\C#\14520748_Paint\Paint\obj\Debug\Paint.pdb
+D:\LT\Code\C#\14520748_Paint_\Paint\bin\Debug\Paint.exe.config
+D:\LT\Code\C#\14520748_Paint_\Paint\obj\Debug\Paint.exe
+D:\LT\Code\C#\14520748_Paint_\Paint\obj\Debug\Paint.pdb
+D:\LT\Code\C#\14520748_Paint_\Paint\bin\Debug\Paint.exe
+D:\LT\Code\C#\14520748_Paint_\Paint\bin\Debug\Paint.pdb
+D:\LT\Code\C#\14520748_Paint_\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+D:\LT\Code\C#\14520748_Paint_\Paint\obj\Debug\Paint.InfoForm.resources
+D:\LT\Code\C#\14520748_Paint_\Paint\obj\Debug\Paint.PaintForm.resources
+D:\LT\Code\C#\14520748_Paint_\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\LT\Code\C#\14520748_Paint_\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+D:\LT\Code\C#\14520748_Paint\14520748_Paint\Paint\bin\Debug\Paint.exe.config
+D:\LT\Code\C#\14520748_Paint\14520748_Paint\Paint\obj\Debug\Paint.exe
+D:\LT\Code\C#\14520748_Paint\14520748_Paint\Paint\obj\Debug\Paint.pdb
+D:\LT\Code\C#\14520748_Paint\14520748_Paint\Paint\bin\Debug\Paint.exe
+D:\LT\Code\C#\14520748_Paint\14520748_Paint\Paint\bin\Debug\Paint.pdb
+D:\LT\Code\C#\14520748_Paint\14520748_Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+D:\LT\Code\C#\14520748_Paint\14520748_Paint\Paint\obj\Debug\Paint.InfoForm.resources
+D:\LT\Code\C#\14520748_Paint\14520748_Paint\Paint\obj\Debug\Paint.PaintForm.resources
+D:\LT\Code\C#\14520748_Paint\14520748_Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\LT\Code\C#\14520748_Paint\14520748_Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+D:\LT\Code\C#\14520748_Paint - Copy\14520748_Paint\Paint\bin\Debug\Paint.exe.config
+D:\LT\Code\C#\14520748_Paint - Copy\14520748_Paint\Paint\obj\Debug\Paint.exe
+D:\LT\Code\C#\14520748_Paint - Copy\14520748_Paint\Paint\obj\Debug\Paint.pdb
+D:\LT\Code\C#\14520748_Paint - Copy\14520748_Paint\Paint\bin\Debug\Paint.exe
+D:\LT\Code\C#\14520748_Paint - Copy\14520748_Paint\Paint\bin\Debug\Paint.pdb
+D:\LT\Code\C#\14520748_Paint - Copy\14520748_Paint\Paint\obj\Debug\Paint.InfoForm.resources
+D:\LT\Code\C#\14520748_Paint - Copy\14520748_Paint\Paint\obj\Debug\Paint.PaintForm.resources
+D:\LT\Code\C#\14520748_Paint - Copy\14520748_Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\LT\Code\C#\14520748_Paint - Copy\14520748_Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+D:\LT\Code\14520748_Paint_DIS\Paint\bin\Debug\Paint.exe.config
+D:\LT\Code\14520748_Paint_DIS\Paint\obj\Debug\Paint.exe
+D:\LT\Code\14520748_Paint_DIS\Paint\obj\Debug\Paint.pdb
+D:\LT\Code\14520748_Paint_DIS\Paint\bin\Debug\Paint.exe
+D:\LT\Code\14520748_Paint_DIS\Paint\bin\Debug\Paint.pdb
+D:\LT\Code\14520748_Paint_DIS\Paint\obj\Debug\Paint.InfoForm.resources
+D:\LT\Code\14520748_Paint_DIS\Paint\obj\Debug\Paint.PaintForm.resources
+D:\LT\Code\14520748_Paint_DIS\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\LT\Code\14520748_Paint_DIS\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+D:\Documents\3-2\LTTQ\14520748_Paint\Sources Code\Paint\bin\Debug\Paint.exe.config
+D:\Documents\3-2\LTTQ\14520748_Paint\Sources Code\Paint\obj\Debug\Paint.exe
+D:\Documents\3-2\LTTQ\14520748_Paint\Sources Code\Paint\obj\Debug\Paint.pdb
+D:\Documents\3-2\LTTQ\14520748_Paint\Sources Code\Paint\bin\Debug\Paint.exe
+D:\Documents\3-2\LTTQ\14520748_Paint\Sources Code\Paint\bin\Debug\Paint.pdb
+D:\Documents\3-2\LTTQ\14520748_Paint\Sources Code\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+D:\Documents\3-2\LTTQ\14520748_Paint\Sources Code\Paint\obj\Debug\Paint.InfoForm.resources
+D:\Documents\3-2\LTTQ\14520748_Paint\Sources Code\Paint\obj\Debug\Paint.PaintForm.resources
+D:\Documents\3-2\LTTQ\14520748_Paint\Sources Code\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\Documents\3-2\LTTQ\14520748_Paint\Sources Code\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+F:\1. DAI HOC\3. SOFTWARE\NHOM CO SO NGANH\6. LT TRUC QUAN C#\LTTQ - QuyenUIT\14520748_Paint\Sources Code\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+F:\1. DAI HOC\3. SOFTWARE\NHOM CO SO NGANH\6. LT TRUC QUAN C#\LTTQ - QuyenUIT\14520748_Paint\Sources Code\Paint\obj\Debug\Paint.InfoForm.resources
+F:\1. DAI HOC\3. SOFTWARE\NHOM CO SO NGANH\6. LT TRUC QUAN C#\LTTQ - QuyenUIT\14520748_Paint\Sources Code\Paint\obj\Debug\Paint.PaintForm.resources
+F:\1. DAI HOC\3. SOFTWARE\NHOM CO SO NGANH\6. LT TRUC QUAN C#\LTTQ - QuyenUIT\14520748_Paint\Sources Code\Paint\obj\Debug\Paint.Properties.Resources.resources
+F:\1. DAI HOC\3. SOFTWARE\NHOM CO SO NGANH\6. LT TRUC QUAN C#\LTTQ - QuyenUIT\14520748_Paint\Sources Code\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+F:\1. DAI HOC\3. SOFTWARE\NHOM CO SO NGANH\6. LT TRUC QUAN C#\LTTQ - QuyenUIT\14520748_Paint\Sources Code\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+F:\1. DAI HOC\3. SOFTWARE\NHOM CO SO NGANH\6. LT TRUC QUAN C#\LTTQ - QuyenUIT\14520748_Paint\Sources Code\Paint\obj\Debug\Paint.exe
+F:\1. DAI HOC\3. SOFTWARE\NHOM CO SO NGANH\6. LT TRUC QUAN C#\LTTQ - QuyenUIT\14520748_Paint\Sources Code\Paint\obj\Debug\Paint.pdb
+F:\1. DAI HOC\3. SOFTWARE\NHOM CO SO NGANH\6. LT TRUC QUAN C#\LTTQ - QuyenUIT\14520748_Paint\Sources Code\Paint\bin\Debug\Paint.exe.config
+F:\1. DAI HOC\3. SOFTWARE\NHOM CO SO NGANH\6. LT TRUC QUAN C#\LTTQ - QuyenUIT\14520748_Paint\Sources Code\Paint\bin\Debug\Paint.exe
+F:\1. DAI HOC\3. SOFTWARE\NHOM CO SO NGANH\6. LT TRUC QUAN C#\LTTQ - QuyenUIT\14520748_Paint\Sources Code\Paint\bin\Debug\Paint.pdb
+F:\1. DAI HOC\3. SOFTWARE\NHOM CO SO NGANH\6. LT TRUC QUAN C#\LTTQ - QuyenUIT\14520748_Paint\Sources Code\Paint\bin\Debug\DevComponents.DotNetBar2.dll
+F:\1. DAI HOC\3. SOFTWARE\NHOM CO SO NGANH\6. LT TRUC QUAN C#\LTTQ - QuyenUIT\14520748_Paint\Sources Code\Paint\bin\Debug\DevComponents.DotNetBar2.xml
+F:\1. DAI HOC\3. SOFTWARE\NHOM CO SO NGANH\6. LT TRUC QUAN C#\LTTQ - QuyenUIT\14520748_Paint\Sources Code\Paint\obj\Debug\Paint.csproj.CopyComplete
